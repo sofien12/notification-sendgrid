@@ -12,7 +12,6 @@ import com.api.sendgrid.notify.service.servicemessage.MessageService;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.env.Environment;
 import org.springframework.stereotype.Service;
-import studio.slashup.iosis.notify.entity.dto.*;
 
 import com.api.sendgrid.notify.utils.NotifyExecpion;
 import org.apache.logging.log4j.LogManager;
